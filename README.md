@@ -1,2 +1,1 @@
-# bootstrap-Projects
-this include node form for uploading multiple images
+This repository contain small beginners level projects. 
